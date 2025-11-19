@@ -1,0 +1,21 @@
+======================================================================
+SALES ANALYTICS - DATA SUMMARY REPORT
+======================================================================
+
+Generated: 2025-11-19 22:30:36
+
+Total Records: 51,289
+Total Revenue: $12,642,905.00
+Total Profit: $1,467,458.40
+Profit Margin: 11.61%
+Date Range: 2025-11-19 to 2025-11-19
+
+Columns Created:
+  Profit_Margin
+  Revenue_Per_Unit
+  Order_Year
+  Order_Month
+  Order_Quarter
+  Shipping_Days
+  Is_Loss
+  High_Discount
