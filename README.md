@@ -39,10 +39,9 @@ GitHub for version control
  ┗ 📂 images (dashboard screenshots)
 
 📷 Dashboard Preview
+<img width="1471" height="831" alt="Screenshot 2026-02-27 012755" src="https://github.com/user-attachments/assets/1dbda593-cc29-4069-8311-6b20bbc9fb0b" />
 
-(Add your Power BI screenshots here once uploaded)
-Example:
-![Dashboard Overview](images/dashboard_overview.png)
+
 
 🚀 Key Insights
 Identified top revenue-generating product categories
